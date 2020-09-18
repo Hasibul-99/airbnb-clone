@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+✔  Deploy complete!
+
+Project Console: https://console.firebase.google.com/project/airbnb-clone-5b44c/overview
+Hosting URL: https://airbnb-clone-5b44c.web.app
